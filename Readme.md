@@ -1,0 +1,1 @@
+This reprository only contains usless python stuff without any purpose, so you are warned about it.
