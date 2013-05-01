@@ -1,1 +1,1 @@
-This reprository only contains usless python stuff without any purpose, so you are warned about it.
+This repository contains only useless python stuff without any purpose, so you are warned about it.
