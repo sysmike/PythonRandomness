@@ -1,5 +1,4 @@
-﻿#!/usr/bin/python
-import socket
+﻿import socket
 import subprocess
 
 HOST = '127.0.0.1'    
