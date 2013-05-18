@@ -25,7 +25,7 @@ def rental_car_cost(days):
 		cost_car = 40 * days - 50
 		return cost_car
 	else:
-		return "Challenge accepted" 
+		return "Challenge accepted!" 
 		
 def trip_cost(city, days, spending_money):
 	return hotel_cost(days) + plane_ride_cost(city) + rental_car_cost(days) + spending_money
