@@ -6,3 +6,4 @@ def shut_down(s):
 		return "Shutdown aborted!"
 	else:
 		return "Sorry, I didn't understand you."
+shut_down("yes")
